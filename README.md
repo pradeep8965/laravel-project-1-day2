@@ -1,2 +1,3 @@
-# laravel-project-1-day2
-laravel project 1 day2
+# laravel project1 lara1
+
+laravel project1 lara1
